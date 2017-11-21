@@ -15,3 +15,7 @@ We have obtained the following results
 
 pickle_out.txt 10 classes Precision: 10% Recall 10%
 pickle_out2.txt 5 classes Precision 24% Recall 20%
+
+
+The complete project is available at the following link
+https://drive.google.com/drive/folders/1p9VrBS9iCev6xWkM86RCWmi5_MviYtm6?usp=sharing
